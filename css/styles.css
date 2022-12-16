@@ -1,0 +1,49 @@
+body {
+  margin: 10px;
+  background-color: rgb(12, 13, 14);
+  color: rgba(73, 7, 158, 0.027)
+  border-style: solid;
+  border-radius: 2;
+  cursor:cue;
+}
+
+h1 {
+  color: rgb(219, 247, 61);
+}
+
+h2 {
+  color:rgb(251, 255, 255)
+}
+p {
+  padding: 20px;
+  margin: 20px;
+  background-color: rgb(5, 38, 53);
+  color:rgb(235, 224, 76);
+}
+h3 {
+  color:antiquewhite;
+}
+ol {
+  color:antiquewhite;
+}
+.hand {
+  cursor: pointer;
+}
+.not-allowed{
+  cursor: not-allowed;
+}
+.crosshair{
+  cursor: crosshair;
+}
+.grab{
+  cursor: grab;
+}
+.zoom-in{
+  cursor: zoom-in;
+}
+.zoom-out{
+  cursor: zoom-out;
+}
+.link{
+  color:aquamarine;
+}
